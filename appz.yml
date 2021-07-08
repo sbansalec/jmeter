@@ -33,4 +33,4 @@ properties:
     JMETER_USERS: 1
     JMETER_RAMPUP: 15
     JMETER_DURATION: 120
-    revision: 17
+    revision: 18
