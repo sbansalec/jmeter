@@ -28,6 +28,7 @@ properties:
     JMETER_BASE_URL_3: devclever-india-dev-lyc-career-0-4.0de945bd.lowtouch.cloud
     JMETER_BASE_URL_4: devclever-india-dev-lyc-passport-0-4.0de945bd.lowtouch.cloud
     JMETER_BASE_URL_5: devclever-india-dev-lyc-web-0-4.0de945bd.lowtouch.cloud
+    TESTPLAN_FILENAME: basic/lyc_healthcheck_v1.jmx
     JMETER_THINK_TIME: 3000
     JMETER_USERS: 1
     JMETER_RAMPUP: 15
