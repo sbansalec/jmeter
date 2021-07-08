@@ -1,7 +1,7 @@
 app:
     name: JMETER
     code: jmeter
-    notify: aborra@ecloudcontrol.com
+    notify: sbansalec@ecloudcontrol.com
 
 build:
     version: 0.1
@@ -11,7 +11,7 @@ build:
     image_template: jmeter-5.3
 
 deploy:
-    context: anushab7/DEV
+    context: sbansalec/DEV
     type: statefulset
     replicas: 1
     port:
@@ -23,13 +23,13 @@ volumes:
     size: 10Gi
 
 properties:
-    JMETER_APP_HOST: springboot-web-0-4
-    JMETER_APP_PORT: 8080
-    TEST_NAME: ACCOUNTS_READ
-    TESTPLAN_FILENAME: Springboot-PSQL-v4.jmx
-    JMETER_LOOP_COUNT: 1000
-    JMETER_THREAD_COUNT: 50
-    JMETER_RAMP_TIME: 100
-    JMETER_THREAD_DELAY: 0
-    JMETER_APP_PROTOCOL: http
+    JMETER_BASE_URL_1: devclever-india-dev-lyc-diagnostic-0-4.0de945bd.lowtouch.cloud
+    JMETER_BASE_URL_2: devclever-india-dev-lyc-account-0-4.0de945bd.lowtouch.cloud
+    JMETER_BASE_URL_3: devclever-india-dev-lyc-career-0-4.0de945bd.lowtouch.cloud
+    JMETER_BASE_URL_4: devclever-india-dev-lyc-passport-0-4.0de945bd.lowtouch.cloud
+    JMETER_BASE_URL_5: devclever-india-dev-lyc-web-0-4.0de945bd.lowtouch.cloud
+    JMETER_THINK_TIME: 3000
+    JMETER_USERS: 1
+    JMETER_RAMPUP: 15
+    JMETER_DURATION: 120
     revision: 17
