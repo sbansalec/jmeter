@@ -32,7 +32,4 @@ properties:
     JMETER_BASE_URL_5: devclever-india-dev-lyc-web-0-4.0de945bd.lowtouch.cloud
     TESTPLAN_FILENAME: basic/lyc_healthcheck_v1.jmx
     JMETER_THINK_TIME: 3000
-    JMETER_USERS: 1
-    JMETER_RAMPUP: 15
-    JMETER_DURATION: 120
     revision: 18
