@@ -31,4 +31,4 @@ properties:
     TESTPLAN_FILENAME: lyc_Passport_V1.jmx
     TEST_NAME: SanityCheck
     JMETER_THINK_TIME: 3000
-    revision: 19
+    revision: 20
