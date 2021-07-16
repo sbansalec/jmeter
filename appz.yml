@@ -32,5 +32,5 @@ properties:
     TEST_NAME: SanityCheck
     JMETER_USERS: 5
     JMETER_RAMPUP: 30
-    JMETER_THINK_TIME: 3000
+    JMETER_THINK_TIME: 5000
     revision: 22
