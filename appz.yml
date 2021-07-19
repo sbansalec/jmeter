@@ -30,7 +30,7 @@ properties:
     JMETER_BASE_URL_2: devclever-india-dev-lyc-career-0-4.0de945bd.lowtouch.cloud
     TESTPLAN_FILENAME: lyc_healthcheck_v1 - Carrier.jmx
     TEST_NAME: SanityCheck
-    JMETER_USERS: 5
-    JMETER_RAMPUP: 30
+    JMETER_USERS: 1
+    JMETER_RAMPUP: 15
     JMETER_THINK_TIME: 5000
     revision: 22
