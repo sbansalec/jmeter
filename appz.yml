@@ -27,10 +27,7 @@ properties:
     JMETER_jmeter.save.saveservice.output_format: xml
     JMETER_jmeter.save.saveservice.subresults: false
     JMETER_BASE_URL_1: devclever-india-dev-lyc-account-0-4.0de945bd.lowtouch.cloud
-    JMETER_BASE_URL_2: devclever-india-dev-lyc-career-0-4.0de945bd.lowtouch.cloud
-    TESTPLAN_FILENAME: lyc_healthcheck_v1 - Carrier.jmx
+    JMETER_BASE_URL_2: devclever-india-dev-lyc-diagnostic-0-4.0de945bd.lowtouch.cloud
+    TESTPLAN_FILENAME: lyc_healthcheck_v1 - daignostic .jmx
     TEST_NAME: SanityCheck
-    JMETER_USERS: 1
-    JMETER_RAMPUP: 15
-    JMETER_THINK_TIME: 5000
     revision: 22
