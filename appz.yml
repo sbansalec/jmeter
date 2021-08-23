@@ -26,8 +26,8 @@ properties:
     JMETER_httpsampler.ignore_failed_embedded_resources: true
     JMETER_jmeter.save.saveservice.output_format: xml
     JMETER_jmeter.save.saveservice.subresults: false
-    JMETER_BASE_URL_1: devclever-india-dev-lyc-account-0-4.0de945bd.lowtouch.cloud
-    JMETER_BASE_URL_2: devclever-india-dev-lyc-diagnostic-0-4.0de945bd.lowtouch.cloud
-    TESTPLAN_FILENAME: lyc_healthcheck_v1 - daignostic .jmx
+    JMETER_BASE_URL_1: devclever-india-dev-lyc-web-0-4.0de945bd.lowtouch.cloud
+    JMETER_BASE_URL_2: devapi.launchmycareer.com
+    TESTPLAN_FILENAME: SchoolAccount.jmx
     TEST_NAME: SanityCheck
     revision: 22
