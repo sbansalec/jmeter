@@ -30,4 +30,4 @@ properties:
     JMETER_BASE_URL_2: devapi.launchmycareer.com
     TESTPLAN_FILENAME: SchoolAccount.jmx
     TEST_NAME: SanityCheck
-    revision: 24
+    revision: 26
