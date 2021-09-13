@@ -11,7 +11,7 @@ build:
     image_template: jmeter-5.3
 
 deploy:
-    context: sbansalec/DEV
+    context: neevhikeqa/DEV
     type: statefulset
     replicas: 1
     port:
