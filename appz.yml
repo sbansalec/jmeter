@@ -30,6 +30,6 @@ properties:
     JMETER_BASE_URL_2: devclever-india-dev-lyc-passport-0-4.0de945bd.lowtouch.cloud
     JMETER_SAMPLE: 5
     JMETER_DURT: 120
-    TESTPLAN_FILENAME: SchoolAccount.jmx
+    TESTPLAN_FILENAME: lyc_Passport_V1.jmx
     TEST_NAME: SanityCheck
     revision: 26
