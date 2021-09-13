@@ -28,7 +28,7 @@ properties:
     JMETER_jmeter.save.saveservice.subresults: false
     JMETER_BASE_URL_1: devclever-india-dev-lyc-account-0-4.0de945bd.lowtouch.cloud
     JMETER_BASE_URL_2: devclever-india-dev-lyc-passport-0-4.0de945bd.lowtouch.cloud
-    JMETER_SAMPLE: 5
+    JMETER_USERS: 2
     JMETER_DURT: 120
     TESTPLAN_FILENAME: lyc_Passport_V1.jmx
     TEST_NAME: SanityCheck
