@@ -32,4 +32,4 @@ properties:
     JMETER_DURT: 120
     TESTPLAN_FILENAME: SchoolAccount.jmx
     TEST_NAME: SanityCheck
-    revision: 25
+    revision: 26
