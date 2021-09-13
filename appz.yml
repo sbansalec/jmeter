@@ -27,7 +27,7 @@ properties:
     JMETER_jmeter.save.saveservice.output_format:xml
     JMETER_jmeter.save.saveservice.subresults:false
     JMETER_BASE_URL_1: devclever-india-dev-lyc-account-0-4.0de945bd.lowtouch.cloud
-    JMETER_BASE_URL_2: devapi.launchmycareer.com
+    JMETER_BASE_URL_2: devclever-india-dev-lyc-passport-0-4.0de945bd.lowtouch.cloud
     JMETER_SAMPLE: 5
     JMETER_DURT: 120
     TESTPLAN_FILENAME: SchoolAccount.jmx
