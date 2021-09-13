@@ -23,7 +23,6 @@ volumes:
     size: 10Gi
 
 properties:
-    -JUSERS: 2
+    JMETER_USERS: 2
     TESTPLAN_FILENAME: lyc_Passport_V1.jmx
-    TEST_NAME: SanityCheck
     revision: 29
