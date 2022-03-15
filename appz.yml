@@ -24,5 +24,5 @@ volumes:
 
 properties:
     JMETER_USERS: 2
-    TESTPLAN_FILENAME: lyc_Passport_V1.jmx
+    TESTPLAN_FILENAME: Create_MKB.jmx
     revision: 29
