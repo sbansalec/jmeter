@@ -32,4 +32,4 @@ properties:
     JMETER_THREAD_DURATION: 1
     JMETER_RAMP_TIME: 1
     TESTPLAN_FILENAME: Auth_MBK_Smoke.jmx
-    revision: 68
+    revision: 70
