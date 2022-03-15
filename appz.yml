@@ -1,10 +1,10 @@
 app:
-    name: JMETER
-    code: jmeter
-    notify: sbansalec@ecloudcontrol.com
+    name: lyc-jmeter
+    code: lyc jmeter
+    notify: sbansal@ecloudcontrol.com
 
 build:
-    version: 0.1
+    version: 0.4
     env: DEV
     build_file: none
     output_files: output/*.zip
@@ -16,6 +16,7 @@ deploy:
     replicas: 1
     port:
     - 80
+    
 volumes:
   - claim: jmeter-data
     mount: /appz/log/results
@@ -23,6 +24,12 @@ volumes:
     size: 10Gi
 
 properties:
-    JMETER_USERS: 2
+    JMETER_httpsampler.ignore_failed_embedded_resources: true
+    JMETER_jmeter.save.saveservice.output_format: xml
+    JMETER_jmeter.save.saveservice.subresults: false    
+    JMETER_THINK_TIME: 300
+    JMETER_USERS_COUNT: 1
+    JMETER_THREAD_DURATION: 1
+    JMETER_RAMP_TIME: 1
     TESTPLAN_FILENAME: Create_MKB.jmx
-    revision: 29
+    revision: 67
