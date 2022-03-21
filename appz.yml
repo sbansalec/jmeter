@@ -32,4 +32,4 @@ properties:
     JMETER_THREAD_DURATION: 900
     JMETER_RAMP_TIME: 5
     TESTPLAN_FILENAME: Auth_MBK_MultipleUsers.jmx
-    revision: 67
+    revision: 68
