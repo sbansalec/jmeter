@@ -33,5 +33,5 @@ properties:
     JMETER_USERS_COUNT: 5
     JMETER_THREAD_DURATION: 300
     JMETER_RAMP_TIME: 5
-    TESTPLAN_FILENAME: basic/lyc_Carrier_V1.jmx
+    TESTPLAN_FILENAME: basic/Create_MBK_MultipleUsers.jmx
     revision: 67
