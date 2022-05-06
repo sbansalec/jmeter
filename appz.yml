@@ -34,4 +34,4 @@ properties:
     JMETER_THREAD_DURATION: 20
     JMETER_RAMP_TIME: 1
     TESTPLAN_FILENAME: OPENPROJECT.jmx
-    revision: 70
+    revision: 71
