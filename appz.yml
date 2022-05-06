@@ -28,10 +28,10 @@ properties:
     JMETER_jmeter.save.saveservice.output_format: xml
     JMETER_jmeter.save.saveservice.subresults: false 
     JMETER_USER_PASSWORD:
-               vault:JMETER_USER_PASSWORD  
+               vault: JMETER_USER_PASSWORD  
     JMETER_THINK_TIME: 1000
-    JMETER_USERS_COUNT: 40
-    JMETER_THREAD_DURATION: 1800
-    JMETER_RAMP_TIME: 4
-    TESTPLAN_FILENAME: OPENPROJECT (1).jmx
+    JMETER_USERS_COUNT: 5
+    JMETER_THREAD_DURATION: 120
+    JMETER_RAMP_TIME: 1
+    TESTPLAN_FILENAME: OPENPROJECT.jmx
     revision: 67
