@@ -28,8 +28,8 @@ properties:
     JMETER_jmeter.save.saveservice.output_format: xml
     JMETER_jmeter.save.saveservice.subresults: false    
     JMETER_THINK_TIME: 1000
-    JMETER_USERS_COUNT: 1
+    JMETER_USERS_COUNT: 5
     JMETER_THREAD_DURATION: 100
     JMETER_RAMP_TIME: 1
-    TESTPLAN_FILENAME: OPENPROJECT(1).jmx
+    TESTPLAN_FILENAME: OPENPROJECT (1).jmx
     revision: 67
