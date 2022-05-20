@@ -33,5 +33,5 @@ properties:
     JMETER_USERS_COUNT: 40
     JMETER_THREAD_DURATION: 900
     JMETER_RAMP_TIME: 4
-    TESTPLAN_FILENAME: LaunchMyCareer_Account.jmx
+    TESTPLAN_FILENAME: LaunchMyCareer_Diagnostic.jmx
     revision: 75
