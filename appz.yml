@@ -28,7 +28,7 @@ properties:
     JMETER_jmeter.save.saveservice.output_format: xml
     JMETER_jmeter.save.saveservice.subresults: false  
     JMETER_THINK_TIME: 1000
-     JMETER_USER_PASSWORD:
+    JMETER_USER_PASSWORD:
          vault: JMETER_USER_PASSWORD 
     JMETER_USERS_COUNT: 1
     JMETER_THREAD_DURATION: 120
