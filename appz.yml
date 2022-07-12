@@ -34,4 +34,4 @@ properties:
     JMETER_THREAD_DURATION: 120
     JMETER_RAMP_TIME: 1
     TESTPLAN_FILENAME: Create_MBK_Smoke.jmx
-    revision: 81
+    revision: 82
