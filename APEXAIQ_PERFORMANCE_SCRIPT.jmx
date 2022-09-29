@@ -45,7 +45,7 @@
           </elementProp>
           <elementProp name="BASE_URL_2" elementType="Argument">
             <stringProp name="Argument.name">BASE_URL_2</stringProp>
-            <stringProp name="Argument.value">app.apexaiq.com</stringProp>
+            <stringProp name="Argument.value">https://apexacorp-qa-apexaiq-1-22.0383898a.lowtouch.cloud/dashboard</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="username" elementType="Argument">
