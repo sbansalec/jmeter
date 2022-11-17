@@ -34,4 +34,4 @@ properties:
     JMETER_THREAD_DURATION: 1800
     JMETER_RAMP_TIME: 1000
     TESTPLAN_FILENAME: APEXAIQ_PERFORMANCE_SCRIPT_dev.apexaiq.jmx
-    revision: 84
+    revision: 85
