@@ -34,4 +34,4 @@ properties:
     JMETER_THREAD_DURATION: 100
     JMETER_RAMP_TIME: 1000
     TESTPLAN_FILENAME: VKYC.jmx
-    revision: 85
+    revision: 86
